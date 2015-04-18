@@ -1,0 +1,17 @@
+# Mac
+.DS_Store
+
+# Vim
+*~
+.*.sw*
+
+# NPM
+node_modules
+npm-debug.log
+
+# Browserify 
+bundle.js
+bundle.min.js
+
+# Bower
+bower_components

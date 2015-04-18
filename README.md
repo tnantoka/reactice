@@ -1,2 +1,2 @@
-# reactice
+# Reactice
 My React playground.

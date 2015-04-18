@@ -1,0 +1,6 @@
+{
+  "name": "hello",
+  "dependencies": {
+    "primer-css": "~2.1.0"
+  }
+}
