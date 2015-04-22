@@ -1,4 +1,4 @@
-var React = require("react");
+var React = require('react');
 
 var Hello = React.createClass({
   propTypes: {
@@ -15,7 +15,7 @@ var Hello = React.createClass({
     };
   },
   handleClick() {
-    this.setState({ count: this.state.count + 1});
+    this.setState({ count: this.state.count + 1 });
   },
   render() {
     return (
